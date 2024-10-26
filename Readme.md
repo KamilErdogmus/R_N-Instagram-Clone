@@ -47,6 +47,10 @@ Through the integration of various libraries, the app ensures smooth performance
 
 [API Documentation](https://rapidapi.com/social-api1-instagram/api/instagram-scraper-api2)
 
+## Preview
+
+<img src="https://drive.google.com/file/d/1z4pFPuo0LtXAo5A2zVLNAWUsf1L-Y7Cc/view?usp=drive_link" height="550" />
+
 ## Installation
 
 To run the project locally follow these steps:
