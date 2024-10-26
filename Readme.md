@@ -49,7 +49,7 @@ Through the integration of various libraries, the app ensures smooth performance
 
 ## Preview
 
-<video src="https://drive.google.com/uc?export=download&id=1z4pFPuo0LtXAo5A2zVLNAWUsf1L-Y7Cc" height="550" />
+<img src="assets/Insta-GIF.gif" height="500" />
 
 ## Installation
 
